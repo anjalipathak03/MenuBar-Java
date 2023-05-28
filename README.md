@@ -1,5 +1,9 @@
 ## ` MenuBar using Java`
+- Class MenuBar
 
+A menu bar handles keyboard shortcuts for menu items, passing them along to its child menus. Keyboard shortcuts, which are optional, provide the user with an alternative to the mouse for invoking a menu item and the action that is associated with it. 
+
+Each menu item can maintain an instance of MenuShortcut. The MenuBar class defines several methods, shortcuts() and getShortcutMenuItem(java.awt.MenuShortcut) that retrieve information about the shortcuts a given menu bar is managing.
 - Packages used
 
 The classes in the Java APIs are organized into separate groups called packages. Each package contains a set of related interfaces, classes, subpackages and exceptions.
