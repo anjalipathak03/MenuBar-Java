@@ -7,3 +7,5 @@ The classes in the Java APIs are organized into separate groups called packages.
 The Abstract Window Toolkit ( AWT ) package in java enables programmers to create graphical user interface applications. It contains a number of classes that help to implement common windows-based tasks, such as manipulating windows, adding scroll bars, buttons, list items, text boxes, etc. All the classes are contained in the java.awt package.
 
 All these classes are hierarchically arranged inside the AWT package in such a manner that each successive level in the hierarchy adds certain attributes to the GUI application.
+
+![image](https://github.com/03anjali/Menu/assets/91782986/c6684f62-68ef-4b0c-8127-f6edef9ea25a)
