@@ -1,3 +1,5 @@
+## Java program to create a menubar and add MenuItems to it.
+
 ## ` MenuBar using Java`
 - Class MenuBar
 
