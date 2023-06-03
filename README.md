@@ -7,7 +7,7 @@ A menu bar handles keyboard shortcuts for menu items, passing them along to its 
 
 Each menu item can maintain an instance of MenuShortcut. The MenuBar class defines several methods, shortcuts() and getShortcutMenuItem(java.awt.MenuShortcut) that retrieve information about the shortcuts a given menu bar is managing.
 
-## `Packages used`
+## `Packages used` 
 
 The classes in the Java APIs are organized into separate groups called packages. Each package contains a set of related interfaces, classes, subpackages and exceptions.
 ## AWT Package
